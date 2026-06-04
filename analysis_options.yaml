@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    annotate_overrides: true
+    avoid_annotating_with_dynamic: true
+    avoid_print: true
+    avoid_slow_async_io: true
